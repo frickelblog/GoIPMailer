@@ -1,0 +1,8 @@
+/.history/
+/build/GoIPMailer.arm
+/build/GoIPMailer_amd64.bin
+/build/GoIPMailer_amd64.exe
+/build/GoIPMailer_x86.bin
+/build/GoIPMailer_x86.exe
+/*.rdp
+/.vscode/

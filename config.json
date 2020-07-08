@@ -1,0 +1,18 @@
+{
+    "SMTPHost":"mail.smtpserver.de",
+    "SMTPPort":25,
+    "SMTPFROM":"goipmailer@smtpserver.de",
+    "SMTPTO":"my.emailadress@smtpserver.de",
+    "SMTPUser":"",
+    "SMTPPass":"",
+    "IPFilter":"192.168.1",
+    "RDPUser":"\\LokalBenutzer",
+    "RDPAttachFile":true,
+    "RDPAttachBodyLine":true,
+    "SSHUser":"",
+    "SSHAttachBodyLine":false,
+    "UserFile":"README.md",
+    "UserAttachFile":false,
+    "UserBodyLine":"Benutzerdefinierter Text (Kann auch <b>HTML</b> enthalten)</br>",
+    "UserAttachBodyLine":true
+}
